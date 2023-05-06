@@ -6,7 +6,7 @@ In order to run the code please follow the following steps
 The code for relevant keyword extraction is present in the file: gpt2_prompt_QG.py <br>
 The code for prompting GPT-2 for QG is also in the file: gpt2_prompt_QG.py <br>
 The prompting tempate is provided in the file 'gpt2_prompt_QG.py' with few examples. Please modify the prompt template if you want to explore further. <br>
-The code can also be ran like with the options (**--kshot** specifying 0,1,k(6) prompt type) and (**--example_id** for denoting example id) <br>
+The code can also be ran with the options (**--kshot** specifying 0,1,k(6) prompt type) and (**--example_id** for denoting example id) <br>
 
 
 The code for using finetuned BART: bart_qg.py
