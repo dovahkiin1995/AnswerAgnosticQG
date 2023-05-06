@@ -9,5 +9,5 @@ The prompting tempate is provided in the file 'gpt2_prompt_QG.py' with few examp
 The code can also be ran with the options (**--kshot** specifying 0,1,k(6) prompt type) and (**--example_id** for denoting example id) <br>
 
 
-The code for using finetuned BART in the file: bart_qg.py<br>
+The code for using finetuned BART is present in the file: bart_qg.py<br>
 option **--no_keyword** is used to specify if keyword will be used for high-lighting or not. If you **don't** want to use keywords (i.e. only context for question generation) use **--no_keyword 1**
