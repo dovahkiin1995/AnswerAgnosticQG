@@ -10,4 +10,4 @@ The code can also be ran with the options (**--kshot** specifying 0,1,k(6) promp
 
 
 The code for using finetuned BART: bart_qg.py
-option **--no_keyword** is used to specify is keyword will be used for high-lighting or not. If you **don't** want to use keywords use **--no_keyword 1**
+option **--no_keyword** is used to specify if keyword will be used for high-lighting or not. If you **don't** want to use keywords use **--no_keyword 1**
